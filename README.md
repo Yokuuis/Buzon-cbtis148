@@ -14,9 +14,8 @@ Aplicación desarrollada en Java utilizando NetBeans, diseñada para recopilar, 
 
 - Java
 - NetBeans IDE
-- Swing (Interfaz gráfica)
-- MySQL (si utilizaste base de datos)
-
+- Swing (Interfaz gráfica propia de java)
+- MySQL 
 ## Autor
-
+Jared Andrade Rodriguez
 Desarrollado como proyecto académico para el CBTIS 148.
